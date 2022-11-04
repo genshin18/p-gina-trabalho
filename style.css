@@ -5,5 +5,9 @@
 
 body {
     background-color: rgb(235, 224, 132);
-    color: rgb(181, 229, 241);
+    color: rgb(17, 145, 177);
+}
+
+h1 {
+    color: rgb(145, 9, 9);
 }
